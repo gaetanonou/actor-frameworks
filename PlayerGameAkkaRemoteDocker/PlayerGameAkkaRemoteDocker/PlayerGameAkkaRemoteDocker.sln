@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAkka", "GameAkka\GameAkka.csproj", "{F9E9ABF9-28D5-421C-89F7-30649356AEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{0072AC91-E5D9-427B-8660-9B894821E296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerAkkaSvc", "PlayerAkkaSvc\PlayerAkkaSvc.csproj", "{466D5A4D-577A-4614-810D-DE35973C06FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E9ABF9-28D5-421C-89F7-30649356AEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E9ABF9-28D5-421C-89F7-30649356AEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E9ABF9-28D5-421C-89F7-30649356AEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E9ABF9-28D5-421C-89F7-30649356AEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0072AC91-E5D9-427B-8660-9B894821E296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0072AC91-E5D9-427B-8660-9B894821E296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0072AC91-E5D9-427B-8660-9B894821E296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0072AC91-E5D9-427B-8660-9B894821E296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466D5A4D-577A-4614-810D-DE35973C06FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466D5A4D-577A-4614-810D-DE35973C06FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466D5A4D-577A-4614-810D-DE35973C06FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466D5A4D-577A-4614-810D-DE35973C06FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34840FAD-5703-48FD-9E66-37F832A8CA99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\gaeta\Projects\actors\20180920 - Azug\SouthParkOrleansCluster\SouthParkInterfaces\bin\Debug\netcoreapp2.1\SouthParkInterfaces.deps.json
+C:\Users\gaeta\Projects\actors\20180920 - Azug\SouthParkOrleansCluster\SouthParkInterfaces\bin\Debug\netcoreapp2.1\SouthParkInterfaces.dll
+C:\Users\gaeta\Projects\actors\20180920 - Azug\SouthParkOrleansCluster\SouthParkInterfaces\bin\Debug\netcoreapp2.1\SouthParkInterfaces.pdb
+C:\Users\gaeta\Projects\actors\20180920 - Azug\SouthParkOrleansCluster\SouthParkInterfaces\obj\Debug\netcoreapp2.1\codegen\SouthParkInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\Projects\actors\20180920 - Azug\SouthParkOrleansCluster\SouthParkInterfaces\obj\Debug\netcoreapp2.1\codegen\SouthParkInterfaces.AssemblyInfoInputs.cache

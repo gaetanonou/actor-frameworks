@@ -1,0 +1,9 @@
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkSilo.deps.json
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkSilo.runtimeconfig.json
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkSilo.runtimeconfig.dev.json
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkSilo.dll
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkSilo.pdb
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkInterfaces.dll
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\bin\Debug\netcoreapp2.1\SouthParkInterfaces.pdb
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\obj\Debug\netcoreapp2.1\codegen\SouthParkSilo.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\Projects\Actors\20180920 - Azug\SouthParkOrleans\SouthParkSilo\obj\Debug\netcoreapp2.1\codegen\SouthParkSilo.AssemblyInfoInputs.cache

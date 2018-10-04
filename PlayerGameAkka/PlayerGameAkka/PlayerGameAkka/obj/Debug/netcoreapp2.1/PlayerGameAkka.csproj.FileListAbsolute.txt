@@ -1,0 +1,11 @@
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\bin\Debug\netcoreapp2.1\PlayerGameAkka.deps.json
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\bin\Debug\netcoreapp2.1\PlayerGameAkka.runtimeconfig.json
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\bin\Debug\netcoreapp2.1\PlayerGameAkka.runtimeconfig.dev.json
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\bin\Debug\netcoreapp2.1\PlayerGameAkka.dll
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\bin\Debug\netcoreapp2.1\PlayerGameAkka.pdb
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.csprojAssemblyReference.cache
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.AssemblyInfoInputs.cache
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.AssemblyInfo.cs
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.dll
+C:\Users\gaeta\Projects\actors\20180920 - Azug\PlayerGameAkka\PlayerGameAkka\PlayerGameAkka\obj\Debug\netcoreapp2.1\PlayerGameAkka.pdb

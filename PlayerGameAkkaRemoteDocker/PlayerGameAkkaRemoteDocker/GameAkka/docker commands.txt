@@ -1,0 +1,1 @@
+﻿docker run -p 8888:8080 -e "akka:host=gameserver" -e "akka:publicport=8888" --hostname gameserver --name gameserver demo/gameserver

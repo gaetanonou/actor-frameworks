@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SouthParkSilo": {
+      "commandName": "Project",
+      "commandLineArgs": "10000 10002 SouthPark1"
+    }
+  }
+}
